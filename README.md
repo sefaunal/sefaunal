@@ -1,14 +1,27 @@
-### Hi there, I'm Sefa 👋
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=sefaunal&label=Profile%20views&color=0e75b6&style=flat" alt="sefaunal" /> </p>
+### Hi there 👋
+👨‍💻 Passionate Software Engineer
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/sefayilmazunal" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="sefayilmazunal" height="30" width="40" /></a>
-</p>
+🌐 Specializing in web development with Java and the Spring framework.
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://spring.io/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" alt="spring" width="40" height="40"/> </a> <a href="https://vuejs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vuejs/vuejs-original-wordmark.svg" alt="vuejs" width="40" height="40"/> </a> </p>
+🔧 Expertise:
+- Java
+- Object-Oriented Programming
 
+🛠️ Backend Technologies:
+- Spring Boot
+- Spring MVC
+- Spring Data
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sefaunal" /></p>
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=sefaunal" alt="sefaunal" /></p>
+🗓️ Development Lifecycle:
+- I'm familiar with the different stages of the software development lifecycle and eager to gain hands-on experience in all aspects. From requirements gathering to deployment, I'm committed to learning and improving my skills throughout the entire process.
+
+🤝 Collaborative Team Player:
+- I enjoy working in a collaborative team environment and value open communication and knowledge sharing. I believe that teamwork and collaboration lead to better outcomes, and I'm always ready to contribute and learn from my teammates.
+
+🚀 Continuous Learning:
+- I'm passionate about continuous learning and self-improvement. I actively seek opportunities to expand my knowledge, stay updated with industry trends, and improve my skills to become a more effective developer.
+
+⚡ If you're looking for a dedicated and enthusiastic team member who can contribute to your software development projects, feel free to reach out. I'm excited about the opportunity to create innovative solutions and make a positive impact. Let's build something great together!
+### 📫 Connect With Me
+- 🔗 LinkedIn: [Connect on LinkedIn](https://www.linkedin.com/in/sefayilmazunal/)
+- 📧 Email: unal.sefayilmaz@skiff.com
