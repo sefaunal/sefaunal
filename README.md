@@ -22,6 +22,14 @@
 - I'm passionate about continuous learning and self-improvement. I actively seek opportunities to expand my knowledge, stay updated with industry trends, and improve my skills to become a more effective developer.
 
 ⚡ If you're looking for a dedicated and enthusiastic team member who can contribute to your software development projects, feel free to reach out. I'm excited about the opportunity to create innovative solutions and make a positive impact. Let's build something great together!
-### 📫 Connect With Me
-- 🔗 LinkedIn: [Connect on LinkedIn](https://www.linkedin.com/in/sefayilmazunal/)
-- 📧 Email: unal.sefayilmaz@skiff.com
+
+#### Connect with me:
+<p align="left">
+  <a href="mailto:unal.sefayilmaz@skiff.com" target="_blank"><img align="center" src="https://github.com/sefaunal/sefaunal/assets/83312431/64dcfe1e-872c-4659-b249-857436be9971" alt="sy.unal" height="30" width="30" /></a>
+  &nbsp;&nbsp;
+  <a href="https://linkedin.com/in/sefayilmazunal" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="sefayilmazunal" height="30" width="30" /></a>
+  &nbsp;&nbsp;
+  <a href="https://twitter.com/sefayilmazunal" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="sefayilmazunal" height="30" width="30" /></a>
+  &nbsp;&nbsp;
+  <a href="https://instagram.com/sy.unal" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="sy.unal" height="30" width="30" /></a>
+</p>
