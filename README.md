@@ -25,11 +25,9 @@
 
 #### Connect with me:
 <p align="left">
-  <a href="mailto:unal.sefayilmaz@skiff.com" target="_blank"><img align="center" src="https://github.com/sefaunal/sefaunal/assets/83312431/64dcfe1e-872c-4659-b249-857436be9971" alt="sy.unal" height="30" width="30" /></a>
+  <a href="mailto:unal.sefayilmaz@gmail.com" target="_blank"><img align="center" src="https://cdn3.iconfinder.com/data/icons/faticons/32/mail-01-512.png" alt="sy.unal" height="30" width="30" /></a>
   &nbsp;&nbsp;
   <a href="https://linkedin.com/in/sefayilmazunal" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="sefayilmazunal" height="30" width="30" /></a>
-  &nbsp;&nbsp;
-  <a href="https://twitter.com/sefayilmazunal" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="sefayilmazunal" height="30" width="30" /></a>
   &nbsp;&nbsp;
   <a href="https://instagram.com/sy.unal" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="sy.unal" height="30" width="30" /></a>
 </p>
